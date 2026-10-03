@@ -1,0 +1,14 @@
+[project]
+name = "projeto-2-rna"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "minisom>=2.3.6",
+    "numpy>=2.5.3",
+    "pillow>=12.3.0",
+    "scikit-learn>=1.9.1",
+    "torch>=2.14.1",
+]
